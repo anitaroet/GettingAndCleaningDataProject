@@ -5,7 +5,7 @@
 The data for this analysis is retrieved from [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]. 
 
 ## Data transformation
-The data originally consisted of one training data set (70 %) and one test data set (30 %). In this data set the two sets have been combined, and we have only extracted the means and standard deviations. After combining the two data sets we have computed the average of each mean and standard deviation for each activity and subject. 
+The data originally consisted of one training data set (70 %) and one test data set (30 %). For this analysis the two sets have been combined, and we have only extracted the means and standard deviations. After combining the two data sets we have computed the average of each mean and standard deviation for each activity and subject. 
 
 
 ## Data variables
