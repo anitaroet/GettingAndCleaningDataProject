@@ -5,7 +5,7 @@ The repo consists of these files:
 1. read_textfile.R: function to read text files into R from the working directory
 2. load_merge.R: script to load all data into R and merge into one data set
 3. run_analysis: script that sources the two scripts above and cleans up the data into one tidy data set
-4. tidy_data.txt: finished tidy dataset
+
 
 
 
