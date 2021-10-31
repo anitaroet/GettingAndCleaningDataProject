@@ -1,8 +1,7 @@
 # Description of repo
 
 This repo contains a script necessary to make a tidy dataset of the data related to the experiment described in [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]  
-The repo consists of this file:
-* run_analysis: script that performs the following tasks:
+The repo consists of the file run_analysis.R. This is a script that performs the following tasks:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set
